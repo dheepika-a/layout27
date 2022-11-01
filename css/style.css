@@ -1,0 +1,417 @@
+   .headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+   .logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.lo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.team .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.companya .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+
+
+  .headera
+{
+	background-color:pink;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	height:81px;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:darkorchid;
+	height:40px;
+	width:15%;
+	margin-top:10px;
+	
+}
+
+.headera .headera-fc .headb
+{
+	background-color:darkorchid;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+
+
+
+.logo
+{
+		background-color:lightblue;
+	height:533px;
+}
+.logo .logo-fc
+{
+    display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+.logo .logo-fc .logoa
+{
+
+	background:darkkhaki;
+	height:470px;
+	width:48%;
+		margin-top:20px;
+		display:flex;
+		flex-direction:row;
+		
+	
+}
+
+.logo .logo-fc .logoa .logob
+{
+	background-color:gold;
+	width:60%;
+	margin-top:300px;
+	height:70px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:lightyellow;
+	width:50%;
+	margin-top:20px;
+	height:470px;
+}
+
+.lo
+{
+	background-color:beige;
+	height:400px;
+} 
+.lo .lo-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.lo .lo-fc .lobox 
+{
+	background-color:skyblue;
+	width:45%;
+	height:300px;
+	margin-top:20px;
+	display:flex;
+	
+}
+
+
+.lo .lo-fc .lobox .la
+{
+	background-color:pink;
+	width:20%;
+	height:30px;
+	margin-top:200px;
+	
+}
+.lo .lo-fc .loa
+{
+	background-color:skyblue;
+	width:45%;
+	height:300px;
+	margin-top:20px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	
+}
+.lo .lo-fc .loa .lob
+{
+		background-color:blue;
+	width:40%;
+	height:100px;
+	margin-top:50px;
+}
+.lo .lo-fc .loa .loc
+{
+		background-color:blue;
+	width:40%;
+	height:100px;
+	margin-top:100px;
+}
+.portfolio
+{
+	background-color:beige;
+	height:900px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+	background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portc
+{
+		background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+
+{
+	background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+		background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portf
+{
+		background-color:plum;
+	height:390px;
+		width:31%;
+			margin-top:30px;
+}
+
+.team
+{
+	background-color:lightgreen;
+	height:400px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	
+}
+.team .team-fc .textteam
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.team .team-fc .teama
+{
+	background-color:orange;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.team .team-fc .teamb
+{
+background-color:orange;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.team .team-fc .teamc
+{
+background-color:orange;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.companya 
+{
+	background-color:lightgray;
+	height:250px;
+}
+.companya .companya-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.companya .companya-fc  .ca
+{
+	background-color:plum;
+	height:100px;
+	width:15%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cb
+{
+	background-color:plum;
+	height:100px;
+	width:15%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cc
+{
+background-color:plum;
+	height:100px;
+	width:15%;
+	margin-top:40px;
+}
+.companya .companya-fc  .cd
+{
+background-color:plum;
+	height:100px;
+	width:15%;
+	margin-top:40px;
+}
+
+
+
+
+
+
+
+
+
+
+.contactus
+{
+	background-color:beige;
+	height:615px;
+}
+.contactus .contactus-fc
+{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+flex-wrap:wrap;	
+}
+.contactus .contactus-fc .context
+{
+	text-align:center;
+	margin-top:10px;
+	width:100%;
+}
+
+.contactus .contactus-fc .cona
+{
+	background-color:gray;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+.contactus .contactus-fc .cona .conaa
+{
+	background-color:yellow;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc  .cona .conab
+{
+	background-color:yellow;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .cona .conac
+{
+	background-color:yellow;
+	height:100px;
+	width:100%;
+	margin-top:20px;
+}
+
+.contactus .contactus-fc .conb
+{
+	background-color:lightgreen;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+
+.contactus .contactus-fc .conb .conba
+{
+	background-color:crimson;
+	height:30px;
+	width:40%;
+	margin-top:400px;
+}
+
+
+.website
+{
+	background-color :black;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:white;
+	width:20%;
+	height:35px;
+	margin-top:20px;
+}
+         
